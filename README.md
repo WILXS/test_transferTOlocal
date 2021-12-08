@@ -15,6 +15,10 @@ git clone ______
 
 open .
 
-
+cd file_bahbahabah/
 
 git status 
+
+- a  [means all]
+
+-m "comment"[add comment]
